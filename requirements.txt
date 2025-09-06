@@ -1,0 +1,8 @@
+streamlit         # Web app framework
+langchain         # LLM application framework
+langchain_ollama  # Ollama integration for LangChain
+selenium          # Browser automation for web scraping
+beautifulsoup4    # HTML/XML parsing for web scraping
+lxml              # Fast XML and HTML parsing
+html5lib          # Pure Python HTML parser
+python-dotenv     # Load environment variables from .env files
